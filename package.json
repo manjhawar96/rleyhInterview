@@ -2,7 +2,7 @@
   "name": "rleyhinterview",
   "version": "1.0.0",
   "description": "Trapping water interview question, with testing suite and visualization utility.",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "mocha"
   },
@@ -18,5 +18,10 @@
   "homepage": "https://github.com/manjhawar96/rleyhInterview#readme",
   "devDependencies": {
     "mocha": "^5.2.0"
+  },
+  "dependencies": {
+    "colors": "^1.3.3",
+    "expect": "^23.6.0",
+    "should": "^13.2.3"
   }
 }
