@@ -1,0 +1,22 @@
+{
+  "name": "rleyhinterview",
+  "version": "1.0.0",
+  "description": "Trapping water interview question, with testing suite and visualization utility.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manjhawar96/rleyhInterview.git"
+  },
+  "author": "Manesh Jhawar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manjhawar96/rleyhInterview/issues"
+  },
+  "homepage": "https://github.com/manjhawar96/rleyhInterview#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
